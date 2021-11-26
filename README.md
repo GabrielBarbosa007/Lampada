@@ -1,6 +1,6 @@
 # Lampada
 
-Projeto feito em html, css e Js. 
+<h1>Projeto feito em html, css e Js.</h1> 
 
 Projeto faz com que a lampada ascenda e desligue. 
 
